@@ -1,3 +1,16 @@
+shell is a command line interface to interact with your computer 
+
+The Bourne shell. If you are using a Bourne-type shell, the default prompt is the $ character.
+
+The C shell. If you are using a C-type shell, the default prompt is the % character.
+
+There are again various subcategories for Bourne Shell which are listed as follows:=Bourne shell ( sh),Korn shell ( ksh),Bourne Again shell ( bash),POSIX shell ( sh)
+
+The different C-type shells follow:C shell ( csh),TENEX/TOPS C shell ( tcsh)
+
+
+__________________________________________________________________________________________________________________________________________
+
 (ctrl+r) =  reverse i search to find last typed commands = useful to get last type complicated commands ..... ctrl+r to keep searching more of similar typed commands
 if you click right arrow or left arrow will drop you into the terminal with that command 
 
