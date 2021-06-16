@@ -5,3 +5,5 @@ if you click right arrow or left arrow will drop you into the terminal with that
 2]tail ~/.bash_history = gets history of last 10 lines typed commands 
 
 3]!!  = run last hit command
+
+4] sudo !! =reruns last command with sudo 
