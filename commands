@@ -1,2 +1,5 @@
 (ctrl+r) =  reverse i search to find last typed commands = useful to get last type complicated commands ..... ctrl+r to keep searching more of similar typed commands
 if you click right arrow or left arrow will drop you into the terminal with that command 
+
+
+2]tail ~/.bash_history = gets history of last 10 lines typed commands 
