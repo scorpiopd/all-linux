@@ -23,4 +23,4 @@ if you click right arrow or left arrow will drop you into the terminal with that
 
 5] which = which is a command for various operating systems used to identify the location of executables = which cpp ,which python 
 
-6]ls --ignore, ls --help = Flags are a way to set options and pass in arguments
+6]ls --ignore=snap , ls --help = Flags are a way to set options and pass in arguments
