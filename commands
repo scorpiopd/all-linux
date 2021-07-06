@@ -59,6 +59,8 @@ then type        kill -9 11844
 
 22]tar -cf abcd.tar a.txt folder1  = to create a tar folder
 
+23]touch file{1,2,3}.txt ,touch file-{mn,ta,nt}.txt = will create multiple txt files in one go 
+
 
 
 
