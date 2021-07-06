@@ -57,7 +57,7 @@ then type        kill -9 11844
 
 21]mkdir -p      =hi/my/first/folder
 
-
+22]tar -cf abcd.tar a.txt folder1  = to create a tar folder
 
 
 
