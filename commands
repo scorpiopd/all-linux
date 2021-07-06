@@ -44,3 +44,22 @@ if you click right arrow or left arrow will drop you into the terminal with that
 15]kill -l       = lists all possible kills 2] start a procees using yes in terminal then 3]open new terminal tab now ps you can see process yes take the id of it 
 
 then type        kill -9 11844
+
+
+
+
+
+
+
+
+
+
+
+
+
+VIM
+16]:q           = existing vim
+
+17]:q!          = exists vim no matter what 
+
+18]:wq          = save and quit 
