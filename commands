@@ -53,7 +53,9 @@ then type        kill -9 11844
 
 19]tail -f a.txt  =  output the contents of file  in real time
 
+20]mkdir afol    = will create a directory
 
+21]mkdir -p      =hi/my/first/folder
 
 
 
