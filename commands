@@ -8,7 +8,7 @@ There are again various subcategories for Bourne Shell which are listed as follo
 
 The different C-type shells follow:C shell ( csh),TENEX/TOPS C shell ( tcsh)
 
-
+https://btholt.github.io/complete-intro-to-linux-and-the-cli/what-is-linux
 __________________________________________________________________________________________________________________________________________
 
 (ctrl+r) =  reverse i search to find last typed commands = useful to get last type complicated commands ..... ctrl+r to keep searching more of similar typed commands
@@ -51,7 +51,7 @@ then type        kill -9 11844
 
 18]tail -n 3 a.txt = output the contents of file  starting with the last 3 lines
 
-11]tail -f a.txt  =  output the contents of file 
+19]tail -f a.txt  =  output the contents of file  in real time
 
 
 
