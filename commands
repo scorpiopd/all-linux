@@ -65,7 +65,7 @@ then type        kill -9 11844
 
 25]echo 'this is' 1> newfile.txt  , cat 'this is' 1> newfile.txt    = creates new file and adds it into it
 
-26]echo 'this is new' 2> newfile.txt  , cat 'this is new ' 2> newfile.txt  = Appends to existing file
+26]echo 'this is new' 1>> newfile.txt  , cat 'this is new ' 1>> newfile.txt  = Appends to existing file
 
 
 
