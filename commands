@@ -77,6 +77,9 @@ then type        kill -9 11844
 
 30] yes y |rm -i file* = to remove multiple files
 
+31]whoami = prints user 
+
+32]cat /etc/passwd = gives name of all the users (keeps track of all different users)
 
 VIM
 16]:q           = existing vim
