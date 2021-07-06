@@ -81,6 +81,18 @@ then type        kill -9 11844
 
 32]cat /etc/passwd = gives name of all the users (keeps track of all different users)
 
+33]sudo useradd pd = creates new user
+34]sudo passwd pd =allows to create password for user pd
+
+
+
+
+
+
+
+
+
+
 VIM
 16]:q           = existing vim
 
