@@ -38,3 +38,5 @@ if you click right arrow or left arrow will drop you into the terminal with that
 12]ctrl+E        = End of the line 
 
 13]ctrl+K        = will delete all after the cursor 
+
+14]Ctrl+U        = erases the whole line
