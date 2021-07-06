@@ -75,6 +75,7 @@ then type        kill -9 11844
 
 29]ps aux lists all running process 
 
+30] yes y |rm -i file* = to remove multiple files
 
 
 VIM
