@@ -26,3 +26,9 @@ if you click right arrow or left arrow will drop you into the terminal with that
 6]ls --ignore=snap , ls --help = Flags are a way to set options and pass in arguments
 
 7]ls -lash ,ls -lsah  =outputs with file size
+
+8]sudo su -root  = Becomes Root
+
+9]passwd         = changes roots passwd
+
+10]dpkg -l       = list installed packages on ubuntu and debian
