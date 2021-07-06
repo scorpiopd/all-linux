@@ -60,6 +60,6 @@ then type        kill -9 11844
 VIM
 16]:q           = existing vim
 
-17]:q!          = exists vim no matter what 
+17]:q! ,:qa!         = exists vim no matter what 
 
 18]:wq          = save and quit 
