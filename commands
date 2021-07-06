@@ -45,7 +45,13 @@ if you click right arrow or left arrow will drop you into the terminal with that
 
 then type        kill -9 11844
 
+16]less.a.txt   = to view all contents of the file (good for long files)
 
+17]cat a.txt    = spits out files content doesnt give you scroll thing as less
+
+18]tail -n 3 a.txt = output the contents of file  starting with the last 3 lines
+
+11]tail -f a.txt  =  output the contents of file 
 
 
 
