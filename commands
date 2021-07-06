@@ -40,3 +40,7 @@ if you click right arrow or left arrow will drop you into the terminal with that
 13]ctrl+K        = will delete all after the cursor 
 
 14]Ctrl+U        = erases the whole line
+
+15]kill -l       = lists all possible kills 2] start a procees using yes in terminal then 3]open new terminal tab now ps you can see process yes take the id of it 
+
+then type        kill -9 11844
