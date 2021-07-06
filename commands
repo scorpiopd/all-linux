@@ -91,8 +91,10 @@ then type        kill -9 11844
 
 37]sudo chmod u=rw,g=rw,o=rw a.txt = will give read write access to user, group, other to write read and execute on file(a.txt) is smae(sudo chmod 777 file.txt)
 
-38] add 4 to the number for read permission,add 2 to the number for read permission,add 1 to the number for execute permission
+r=read w=write x=execute 
 
+38] add 4 to the number for read permission,add 2 to the number for write permission,add 1 to the number for execute permission
+chmod 700 denotes= user can read write execute , group and others can do nothing
 
 VIM
 16]:q           = existing vim
