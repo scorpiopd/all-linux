@@ -69,6 +69,11 @@ then type        kill -9 11844
 
 [1> redirects std output] [2> redirects std err]
 
+27]ps aux |grep "psaux"  = to find particular thing use grep
+
+28]ps  = list running process
+
+29]ps aux lists all running process 
 
 
 
