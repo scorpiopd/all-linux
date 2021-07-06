@@ -85,11 +85,11 @@ then type        kill -9 11844
 34]sudo passwd pd =allows to create password for user pd
 
 
+35]-rw = - in the begining denotes its normal file
 
+36]sudo chown owner-user file 
 
-
-
-
+37]sudo chmod u=rw,g=rw,o=rw a.txt = will give read write access to user, group, other to write read and execute on file(a.txt)
 
 
 
