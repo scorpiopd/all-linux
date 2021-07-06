@@ -32,3 +32,9 @@ if you click right arrow or left arrow will drop you into the terminal with that
 9]passwd         = changes roots passwd
 
 10]dpkg -l       = list installed packages on ubuntu and debian
+
+11]ctrl+A        = Beginning of the line 
+
+12]ctrl+E        = End of the line 
+
+13]ctrl+K        = will delete all after the cursor 
