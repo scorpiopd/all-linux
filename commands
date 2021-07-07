@@ -96,6 +96,24 @@ r=read w=write x=execute
 38] add 4 to the number for read permission,add 2 to the number for write permission,add 1 to the number for execute permission
 chmod 700 denotes= user can read write execute , group and others can do nothing
 
+39] && =and operators , || =or operator
+
+40]ssh username@ip
+
+41]sftp username@ip == SFTP (Secure File Transfer Protocol) after setting up ssh you can sftp , lls = local lisst directory , put status.txt ,get status.txt getted.txt
+
+42]Wget vs curl  
+curl supports a plethora of other protocols. This includes DICT, FILE, FTPS, GOPHER, IMAP, IMAPS, LDAP, LDAPS, POP3, POP3S, RTMP, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, and TFTP.
+
+curl command transfers data from any server over to your computer.Whereas the wget command downloads the data as a file
+
+apt =advance packaging tool 
+
+snaps = does sandboxing so if any code is trying to do harm or it cant escape that sandbox
+
+
+
+
 VIM
 16]:q           = existing vim
 
