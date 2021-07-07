@@ -65,7 +65,7 @@ then type        kill -9 11844
 
 24]touch file{1..30}.txt, touch file{a..z}.txt = will create 30 files
 
-25]echo 'this is' 1> newfile.txt  , cat 'this is' 1> newfile.txt    = creates new file and adds it into it
+25]echo 'this is' 1> newfile.txt    = creates new file and adds it into it
 
 26]echo 'this is new' 1>> newfile.txt  , cat 'this is new ' 1>> newfile.txt  = Appends to existing file.   [1> redirects std output]
 
