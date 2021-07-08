@@ -17,7 +17,7 @@ ________________________________________________________________________________
 if you click right arrow or left arrow will drop you into the terminal with that command 
 
 
-2]tail ~/.bash_history = gets history of last 10 lines typed commands 
+2]tail ~/.bash_history = gets history of last 10 lines typed commands                       cat .bash_history =to view bash history
 
 3]!!  = run last hit command
 
