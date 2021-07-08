@@ -39,9 +39,9 @@ if you click right arrow or left arrow will drop you into the terminal with that
 
 12]ctrl+E        = End of the line 
 
-13]ctrl+K        = will delete all after the cursor 
+13]ctrl+K        = will delete all after the cursor       ctrl +p =gives you last typed commannd
 
-14]Ctrl+U        = erases the whole line          ctrl +l = will clear everything except that typed command
+14]Ctrl+U        = erases the whole line                  ctrl +l = will clear everything except that typed command
 
 15]kill -l       = lists all possible kills 2] start a procees using yes in terminal then 3]open new terminal tab now ps you can see process yes take the id of it 
 
