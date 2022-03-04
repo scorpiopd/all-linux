@@ -21,4 +21,35 @@ STRACE:
 strace -etrace= open google-chrome
 
 FTRACE:
-/proc
+
+ls -l /proc
+ls -ltr /proc/7494
+ls -ltr /proc/7494/status
+
+So ps gets its information from /proc! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/jvns
