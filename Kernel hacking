@@ -19,3 +19,6 @@ start a program (execve)
 STRACE:
 
 strace -etrace= open google-chrome
+
+FTRACE:
+/proc
