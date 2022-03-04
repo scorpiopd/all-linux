@@ -1,0 +1,21 @@
+
+  THE BASICS
+
+kernel is the bunch of codes that interact with the hardware.
+Kernel functions at a basic level, maintaining resources like RAM and CPU, communicating with hardware.
+
+When you visit a website eg:google.com kernel code runs for 
+Typing in the address
+handling every network packet
+writing history files to disk 
+allocating memory 
+communicating with graphics card 
+
+How to call kenerl code :
+System Calls 
+Open a file (open)
+start a program (execve)
+
+STRACE:
+
+strace -etrace= open google-chrome
