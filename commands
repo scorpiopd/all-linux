@@ -123,8 +123,11 @@ snaps = does sandboxing so if any code is trying to do harm or it cant escape th
 44] find . -name *.py= this will search all files ending with .py extension in current working directory(. stands for current WD) 
 
 VIM
-16]:q           = existing vim
+45]:q           = existing vim
 
-17]:q! ,:qa!         = exists vim no matter what 
+46]:q! ,:qa!         = exists vim no matter what 
 
-18]:wq          = save and quit 
+47]:wq          = save and quit 
+
+48]uptime
+
